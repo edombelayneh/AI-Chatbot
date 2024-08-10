@@ -6,7 +6,7 @@ import ChatBot from '../chatbot/page';
 import TestimonialsCarousel from '../testimonials/page';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
-import Image from 'next/image';
+// import Image from 'next/image';
 
 const themePrimary = createTheme({
     typography: {
@@ -33,9 +33,7 @@ const themePrimary = createTheme({
   
 
 const LandingPage = () => {
-    // const[theme, setTheme] = useState('');
     const [open, setOpen] = useState(false); 
-    // const router = useRouter();
 
     const handleOpen = () => setOpen(true);
     const handleClose = () => setOpen(false);
@@ -47,8 +45,8 @@ const LandingPage = () => {
                 <Toolbar sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                     {/* Logo and text */}
                     <Stack direction="row" spacing={2} alignItems="center" width="auto" >
-                        <Image src="/images/logo.png"
-                            alt="NextAway Stays Logo"
+                        <img src="/images/logo.png"
+                            alt="Edom Belayneh"
                             style={{
                                 width: '30px',
                                 height: 'auto',
