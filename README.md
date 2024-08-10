@@ -2,21 +2,20 @@
 <img src="https://img.shields.io/badge/-Solo Project-f2336f?&style=for-the-badge&logoColor=white" />
 
 ## Objective
-This was a solo project. The pantry tracking and recipe suggestion application leverages Firebase for authentication and Firestore for real-time data management. It integrates GroqCloud API to provide AI-driven recipe suggestions based on the user's pantry inventory. The application is deployed on Vercel and features a responsive, theme-adaptive user interface built with React and Material-UI, ensuring a seamless and engaging user experience. The project showcases advanced state management, dynamic list updates, and secure handling of user authentication and data operations.
+This project is a solo effort designed to demonstrate my proficiency in AI API integration and web app design. The landing page features a chatbot interface powered by a custom AI API, offering dynamic support to users and showcasing real-time communication capabilities. The page utilizes React and Material-UI for a visually engaging and responsive design, incorporating a dark theme with complementary color accents to enhance user experience. Additionally, the project integrates a testimonials carousel with Slick Carousel to display user feedback attractively. This application not only emphasizes seamless AI interaction but also highlights advanced UI design, ensuring an intuitive and aesthetically pleasing interface for end-users.
 
 **To be able to view my website on your browser <a href="https://ai-chatbot-edombelaynehs-projects.vercel.app/">click-here</a>.**
 
 ### Skills Learned
-- Proficiency in deploying web applications on Vercel.
-- Experience in integrating Firebase for authentication and Firestore for data management.
-- Advanced understanding of state management and asynchronous data fetching using React hooks (useState, useEffect).
-- Ability to implement dark and light themes using Material-UI and create custom themes.
-- Enhanced skills in designing and implementing modals, forms, and dynamic lists using Material-UI components.
-- Experience in handling authentication state changes and securing routes in a web application.
-- Proficiency in creating interactive and responsive user interfaces with React and Material-UI.
-- Familiarity with using GroqCloud API to generate AI-driven recipe suggestions.
-- Capability to optimize performance and ensure seamless user experience during data loading operations.
-- Improved ability to manage and manipulate collections in Firestore for dynamic and real-time updates in the application.
+- Advanced AI API Integration: Demonstrated ability to integrate and manage interactions with AI APIs, enhancing user experience with dynamic, real-time responses.
+- Web Application Design: Developed skills in creating a responsive, visually appealing user interface using React and Material-UI, with a focus on theme adaptation and user engagement.
+- Modal and Interaction Design: Gained experience in implementing and managing modals for interactive components, improving user accessibility and functionality.
+- State Management and Asynchronous Data Handling: Improved proficiency in using React hooks (useState) for managing state and handling asynchronous data operations, ensuring smooth data updates and interactions.
+- Carousel and Dynamic Content Display: Enhanced skills in implementing carousels and dynamic content display using libraries like Slick Carousel, optimizing the presentation of testimonials and other user feedback.
+- Responsive Layouts and Theming: Developed expertise in crafting adaptive layouts and custom themes with Material-UI, ensuring a consistent and user-friendly experience across different devices and themes.
+- Performance Optimization: Acquired the ability to optimize performance for interactive and data-heavy components, ensuring efficient data loading and a seamless user experience.
+- Integration of Third-Party APIs: Gained hands-on experience with integrating third-party APIs to provide enhanced functionality, such as AI-driven responses and content generation.
+- User Interface (UI) and User Experience (UX) Enhancement: Improved skills in designing user interfaces that are both visually appealing and functionally intuitive, leveraging Material-UI components effectively.
 
 ### Tools Used
 <div>
