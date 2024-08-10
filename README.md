@@ -28,7 +28,7 @@ This project is a solo effort designed to demonstrate my proficiency in AI API i
 </div>
 
 ## Preview
-<img width="781" alt="StockUp" src="https://github.com/user-attachments/assets/4326f217-c3b2-4699-ab54-760e291a32d2">
+<img width="1440" alt="Screenshot 2024-08-10 at 10 16 55 AM" src="https://github.com/user-attachments/assets/50aa3d73-5efb-4749-a2ee-7e583dc7ac2c">
 
 
 ## To Execute
