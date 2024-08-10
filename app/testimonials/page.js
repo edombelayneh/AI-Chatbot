@@ -1,10 +1,10 @@
+'use client';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import Slider from 'react-slick';
 import { FaStar } from 'react-icons/fa';
 import { Box, Typography, Container, Stack } from '@mui/material';
 
-// Sample data for testimonials with images
 const testimonials = [
     { name: 'John Doe', text: 'This was an amazing experience! The stay was fantastic and the service was top-notch.', image: '/images/sample1.png', rating: 5, photo: '/images/photo1.png' },
     { name: 'Jane Smith', text: 'A wonderful escape from the city. Highly recommend to anyone looking for relaxation.', image: '/images/sample2.png', rating: 4, photo: '/images/photo2.png' },
@@ -100,5 +100,5 @@ const TestimonialsCarousel = () => {
     );
 };
 
-export default TestimonialsCarousel;
+export default TestimonialsCarousel
 

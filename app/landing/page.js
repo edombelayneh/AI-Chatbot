@@ -6,7 +6,6 @@ import ChatBot from '../chatbot/page';
 import TestimonialsCarousel from '../testimonials/page';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
-// import Image from 'next/image';
 
 const themePrimary = createTheme({
     typography: {
