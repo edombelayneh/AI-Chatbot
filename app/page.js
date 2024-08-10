@@ -7,7 +7,7 @@ import { usePathname } from 'next/navigation';
 
 const Page = () => {
   const pathname = usePathname();
-    if (pathname == '/signup') {
+    if (pathname == '/landing') {
       return <LandingPage />;
     }
     if (pathname == '/signin') {
