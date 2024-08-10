@@ -52,7 +52,7 @@ const TestimonialsCarousel = () => {
                         }}
                     >
                         <Typography variant="body1" sx={{ fontStyle: 'italic' }}>
-                            "{testimonial.text}"
+                        &quot;{testimonial.text}&quot;
                         </Typography>
                         <Box sx={{ mt: 2, display: 'flex', justifyContent: 'center' }}>
                             <img

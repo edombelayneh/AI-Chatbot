@@ -198,7 +198,7 @@ const LandingPage = () => {
                                     </Typography>
                                     <Stack direction="column" spacing={2} sx={{ml: 1, mt: 2}}>
                                         <Link href="" underline="hover" color="inherit">
-                                            FAQ's
+                                            FAQs
                                         </Link>
                                         <Link href="#" underline="hover" color="inherit">
                                             Booking Policies
