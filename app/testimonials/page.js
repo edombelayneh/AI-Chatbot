@@ -3,6 +3,7 @@ import 'slick-carousel/slick/slick-theme.css';
 import Slider from 'react-slick';
 import { FaStar } from 'react-icons/fa';
 import { Box, Typography, Container, Stack } from '@mui/material';
+import Image from 'next/image';
 
 // Sample data for testimonials with images
 const testimonials = [
@@ -55,7 +56,7 @@ const TestimonialsCarousel = () => {
                         &quot;{testimonial.text}&quot;
                         </Typography>
                         <Box sx={{ mt: 2, display: 'flex', justifyContent: 'center' }}>
-                            <img
+                            <Image
                                 src={testimonial.image}
                                 alt="Edom Belayneh"
                                 style={{
@@ -68,7 +69,7 @@ const TestimonialsCarousel = () => {
                             />
                         </Box>
                         <Stack direction="column" spacing={2} sx={{display:'flex', flexDirection: 'row', justifyContent:'center', mt: 2}}> 
-                            <img src={testimonial.photo}
+                            <Image src={testimonial.photo}
                                  alt="Edom Belayneh"
                                  style={{
                                     width: '10%',

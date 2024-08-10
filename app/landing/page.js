@@ -6,6 +6,7 @@ import ChatBot from '../chatbot/page';
 import TestimonialsCarousel from '../testimonials/page';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
+import Image from 'next/image';
 
 const themePrimary = createTheme({
     typography: {
@@ -46,7 +47,7 @@ const LandingPage = () => {
                 <Toolbar sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                     {/* Logo and text */}
                     <Stack direction="row" spacing={2} alignItems="center" width="auto" >
-                        <img src="/images/logo.png"
+                        <Image src="/images/logo.png"
                             alt="NextAway Stays Logo"
                             style={{
                                 width: '30px',
