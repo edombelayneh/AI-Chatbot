@@ -22,9 +22,11 @@ This project is a solo effort designed to demonstrate my proficiency in AI API i
   <img src="https://img.shields.io/badge/-NodeJs-orange?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-blue?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-e8d82a?&style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-purple?&style=for-the-badge&logo=clerk&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-364559?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-GroqCloud API-364559?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-MUI Material UI-364559?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Stripe-purple?&style=for-the-badge&logo=stripe&logoColor=white" />
 </div>
 
 ## Preview
